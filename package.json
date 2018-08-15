@@ -1,0 +1,19 @@
+{
+  "name": "parallel",
+  "version": "1.0.0",
+  "description": "A parallel project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Parallel"
+  },
+  "author": "Michael Kipp",
+  "license": "MIT",
+  "dependencies": {
+    "p5": "^0.7.1",
+    "paralleljs": "^0.2.1"
+  }
+}
